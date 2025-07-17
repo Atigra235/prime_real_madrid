@@ -1,0 +1,262 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("./nu/green-fake-grass-background.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+section {
+  display: flex;
+}
+
+.tr {
+  padding: 10px;
+  margin-left: 10px;
+  color: white;
+  background-color: black;
+  display: inline-block;
+}
+
+.alineacion {
+  font-size: 27px;
+}
+
+h3 {
+  background-color: blueviolet;
+  color: yellow;
+}
+
+#cr7 {
+  position: relative;
+  top: 20px;
+  left: 5px;
+  right: 5%;
+  width: 99%;
+}
+
+#cr7 .siu {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#cr7 article {
+  background-color: rgb(3, 36, 60);
+  color: white;
+  font-size: 28px;
+  display: flex;
+  align-items: flex-start;
+  padding: 0;
+  border: 1.6px solid white;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+#cr7 article figure img {
+  width: 400px;
+  display: flex;
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+}
+
+#cr7 .article p {
+  font-size: 0.74em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#cr7 article .article h3 {
+  background-color: black;
+  color: yellow;
+  padding: 8px;
+  padding-bottom: 5px;
+  border-top-right-radius: 10px;
+  width: 100%;
+}
+
+#kb9 .benzi {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#kb9 .article p {
+  font-size: 0.76em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#is22 .isco {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#is22 .article p {
+  font-size: 0.78em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#tk9 .kroos {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#tk9 .article p {
+  font-size: 0.75em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#cs14 .casemiro {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#cs14 .article p {
+  font-size: 0.78em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#lm10 .modric {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#lm10 .article p {
+  font-size: 0.76em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#mv12 .marcelo {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#mv12 .article p {
+  font-size: 0.78em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#rv5 .varane {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#rv5 .article p {
+  font-size: 0.76em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#sr4 .ramos {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#sr4 .article p {
+  font-size: 0.74em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#dc .carvajal {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#dc .article p {
+  font-size: 0.74em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+#kn1 .keilor {
+  margin-bottom: 100px;
+  position: relative;
+  top: 30px;
+}
+
+#kn1 .article p {
+  font-size: 0.74em;
+  font-style: italic;
+  font-weight: 200;
+  margin-left: 10px;
+  padding: 20px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+.alineacion a{
+      text-decoration: none; 
+      color: blueviolet; 
+    }
+
+.alineacion a:hover{
+  display: inline-block; 
+      text-decoration: none;
+      color: white ;
+      font-size: 30px;
+      transition: transform 0.3s ease;
+}
+
+.zizou{
+  margin-left: 320px;
+
+}

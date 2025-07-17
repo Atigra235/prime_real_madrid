@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ h1{
+    font-size: 50px;
+ }
+
+ h2{
+    font-size: 50px;
+ }
+ 
+.text-m{
+    background: linear-gradient(90deg, yellow, gray);
+    width: 100%;
+    height: 230px;
+    animation: slideBackground 5s infinite linear;
+    transition: background-color 3s ease;
+    text-align: center;
+    position: fixed;
+    z-index:100;
+    top: 0%;
+}
+
+body{
+    background: linear-gradient(110deg,rgb(239, 6, 6),rgb(238, 255, 0),rgb(255, 132, 0),rgb(255, 89, 0));
+    background-size: 150%;
+}
+
+.text-m figure {
+    display:unset;
+}
+
+.u-list ul{
+    font-size: 50px;
+    list-style: none;
+   
+}
+
+.u-list{
+    margin-top: 230px;
+}
+
+.h{
+    color:yellow;
+    background-color: red;
+}
+
+.g{
+    color:red;
+    background-color: yellow;
+}
+
+.j{
+    color:yellow;
+    background-color: red;
+}
+
+.cr7{
+    margin-left:1120px;
+}
+
+.poza1{
+    margin-top:-170px;
+}
+
+ a{
+      text-decoration: none; 
+      color: black; 
+    }
+
+ a:hover{
+  display: inline-block; 
+      text-decoration: none;
+      color: white ;
+      font-size: 55px;
+      transition: transform 0.3s ease;
+}
+
+
